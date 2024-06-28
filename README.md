@@ -40,7 +40,7 @@ These prompts are drawn from the curated mHumanEval, which compiles the best pro
 
 ### LLMs Performance on mHumanEval
 
-** Categorized by Language Classes [Joshi et al., 2020] **
+**Categorized by Language Classes [Joshi et al., 2020]**
 
 
 
