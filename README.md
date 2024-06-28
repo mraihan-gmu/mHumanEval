@@ -1,6 +1,6 @@
 # **mHumanEval Overview**
 
-The mHumanEval benchmark is curated based on prompts from the original HumanEval 📚 [Peng et al., 2024]. It includes a total of 33,456 prompts, significantly expanding from the original 164. 
+The mHumanEval benchmark is curated based on prompts from the original HumanEval 📚 [Chen et al., 2021]. It includes a total of 33,456 prompts, significantly expanding from the original 164. 
 
 ![Workflow](resources/images/workflow.png)
 
@@ -36,9 +36,10 @@ These prompts are drawn from the curated mHumanEval, which compiles the best pro
 ## References 📚
 
 ```bibtex
-@article{peng2024humaneval,
-  title={HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization},
-  author={Peng, Qiwei and Chai, Yekun and Li, Xuhong},
-  journal={arXiv preprint arXiv:2402.16694},
-  year={2024}
+@article{chen2021codex,
+  title={Evaluating large language models trained on code},
+  author={Chen, Mark and Tworek, Jerry and Jun, Heewoo and Yuan, Qiming and Pinto, Henrique Ponde de Oliveira and Kaplan, Jared and others},
+  journal={arXiv preprint arXiv:2107.03374},
+  year={2021}
 }
+
