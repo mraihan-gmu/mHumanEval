@@ -1,5 +1,6 @@
 # **mHumanEval Overview**
-The mHumanEval benchmark is curated based on prompts from the original \he \cite{chen2021codex} dataset. It includes a total of 33,456 prompts, significantly expanding from the original 164. 
+
+The mHumanEval benchmark is curated based on prompts from the original HumanEval 📚 [Peng et al., 2024]. It includes a total of 33,456 prompts, significantly expanding from the original 164. 
 
 ![workflow](workflow.png)
 
@@ -13,7 +14,7 @@ We provide multiple subsets of the dataset for quick usability and interesting a
 
 These prompts are drawn from the curated mHumanEval, which compiles the best prompts from 13 candidates each. Finally, we produce **mHumanEval-mini**, a subset containing 204 prompts, with each prompt in a different language, selecting one prompt per language.
 
-### mHumanEval Subsets
+### mHumanEval Subsets 📊
 
 | **Subset**             | **Prompts** | **Note**        |
 |------------------------|-------------|-----------------|
@@ -29,3 +30,15 @@ These prompts are drawn from the curated mHumanEval, which compiles the best pro
 **Table: Subsets and Variants of mHumanEval.**
 
 **Note:** Each subset and variant is designed to facilitate specific types of analysis and testing, ensuring comprehensive evaluation across different dimensions of the dataset.
+
+---
+
+## References 📚
+
+```bibtex
+@article{peng2024humaneval,
+  title={HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization},
+  author={Peng, Qiwei and Chai, Yekun and Li, Xuhong},
+  journal={arXiv preprint arXiv:2402.16694},
+  year={2024}
+}
