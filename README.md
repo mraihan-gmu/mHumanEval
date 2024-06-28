@@ -2,7 +2,7 @@
 
 The mHumanEval benchmark is curated based on prompts from the original HumanEval 📚 [Peng et al., 2024]. It includes a total of 33,456 prompts, significantly expanding from the original 164. 
 
-![workflow](workflow.png)
+![Workflow](resources/images/workflow.png)
 
 **We have a total of 33,456 prompts in mHumanEval spanning 204 languages. Each prompt additionally supports 24 programming languages, bringing the total number of prompts to 836,400.**
 
