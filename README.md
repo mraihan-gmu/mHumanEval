@@ -40,7 +40,7 @@ These prompts are drawn from the curated mHumanEval, which compiles the best pro
 
 ### LLMs Performance on mHumanEval
 
-
+** Categorized by Language Classes [Joshi et al., 2020] **
 
 
 
@@ -58,10 +58,18 @@ These prompts are drawn from the curated mHumanEval, which compiles the best pro
 ## References 📚
 
 ```bibtex
+
 @article{chen2021codex,
   title={Evaluating large language models trained on code},
   author={Chen, Mark and Tworek, Jerry and Jun, Heewoo and Yuan, Qiming and Pinto, Henrique Ponde de Oliveira and Kaplan, Jared and others},
   journal={arXiv preprint arXiv:2107.03374},
   year={2021}
+}
+
+@article{joshi2020state,
+  title={The state and fate of linguistic diversity and inclusion in the NLP world},
+  author={Joshi, Pratik and Santy, Sebastin and Budhiraja, Amar and Bali, Kalika and Choudhury, Monojit},
+  journal={arXiv preprint arXiv:2004.09095},
+  year={2020}
 }
 
