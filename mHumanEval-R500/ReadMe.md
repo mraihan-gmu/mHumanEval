@@ -28,12 +28,3 @@ While **mHumanEval-mini** focuses on high-quality, single prompts from each lang
 - **More Prompts**: 500 prompts for a more comprehensive evaluation.
 - **Varied Quality**: A mix of prompt qualities, from best to average, providing a broader testing ground.
 
-## Why mHumanEval-R500? 🚀
-
-**mHumanEval-R500** is perfect for scenarios requiring a thorough examination of a Code LLM’s performance across different languages and prompt complexities:
-
-- **Comprehensive**: With more prompts, it offers a deeper insight into the model's capabilities.
-- **Versatile**: Suitable for diverse evaluation tasks, from accuracy to robustness testing.
-
-**mHumanEval-R500** is your ideal choice for an extensive, varied evaluation of a Code LLM’s multilingual performance!
-
